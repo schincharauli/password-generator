@@ -18,4 +18,4 @@ Links
 
 Solution URL: https://github.com/schincharauli/password-generator
 
-Live Site URL: http://127.0.0.1:5500/index.html
+Live Site URL: https://neon-squirrel-7947b6.netlify.app/
